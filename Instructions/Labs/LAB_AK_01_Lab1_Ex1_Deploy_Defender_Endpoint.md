@@ -45,7 +45,7 @@ In this task, you will perform the initialization of the Microsoft Defender for 
 
 In this task, you will onboard a device to Microsoft Defender for Endpoint using the Security Center.
 
-1. Go to the Microsoft Defender Security Center at (https://securitycenter.microsoft.com) and login with the **Tenant Email** credentials if you are not currently in the portal.
+1. Go to the Microsoft Defender Security Center at (https://security.microsoft.com) and login with the **Tenant Email** credentials if you are not currently in the portal.
 
 2. Select **Settings** from the left menu bar, then select **Endpoints**.
 
