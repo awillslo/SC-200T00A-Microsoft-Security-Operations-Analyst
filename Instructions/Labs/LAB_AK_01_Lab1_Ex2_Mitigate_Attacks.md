@@ -8,7 +8,7 @@ To explore the Defender for Endpoint attack mitigation capabilities, you run six
 
 ### Task 1: Simulated Attacks
 
-In this task, you will run six simulated attacks to explore the capabilities of Microsoft Defender for Endpoint.
+In this task, you will run two simulated attacks to explore the capabilities of Microsoft Defender for Endpoint.
 
 1. If you are not already at the Microsoft 365 Defender portal in your browser, go to the Microsoft 365 Defender portal at (https://security.microsoft.com) logged in as Admin for your tenant.
 
